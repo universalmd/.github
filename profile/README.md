@@ -38,14 +38,9 @@ UNIVERSAL maklérsky dom a.s. je popredný finančný sprostredkovateľ poskytuj
 ## 📫 Kontakt
 
 - 🌐 Website: [universal.sk](https://www.universal.sk)
-- 📧 Email: [kontakt@universal.sk]
+- 📧 Email: [it@universal.sk]
 - 💼 LinkedIn: [UNIVERSAL maklérsky dom]
-
-## 👥 Pre vývojárov
-
-Zaujíma vás práca s modernými technológiami v oblasti finančných služieb? 
-Pozrite si naše aktuálne kariérne príležitosti!
 
 ---
 
-© 2024 UNIVERSAL maklérsky dom a.s. | Všetky práva vyhradené
+© 2025 UNIVERSAL maklérsky dom a.s. | Všetky práva vyhradené

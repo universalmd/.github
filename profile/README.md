@@ -4,8 +4,6 @@
 
 UNIVERSAL maklérsky dom a.s. je popredný finančný sprostredkovateľ poskytujúci komplexné služby v oblasti poisťovníctva a finančných produktov.
 
-## 🔧 Naša technologická infraštruktúra
-
 ### Core Technologies
 
 - **Data Processing**: Apache NiFi - spracovanie províziových dát

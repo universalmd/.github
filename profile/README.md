@@ -11,7 +11,7 @@ UNIVERSAL maklérsky dom a.s. je popredný finančný sprostredkovateľ poskytuj
 - **Data Processing**: Apache NiFi - spracovanie províziových dát
 - **Databases**: PostgreSQL s vysokou dostupnosťou (Patroni, etcd)
 - **Orchestration**: Rundeck - centralizovaná automatizácia úloh
-- **Monitoring**: Graylog, Prometheus, Grafana
+- **Monitoring**: Graylog, Prometheus, Grafana, Zabbix
 - **DevOps**: GitLab CI/CD, Docker, Kubernetes
 
 ### 🛠️ Tech Stack
@@ -22,18 +22,6 @@ UNIVERSAL maklérsky dom a.s. je popredný finančný sprostredkovateľ poskytuj
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-## 📊 Naše Open Source projekty
-
-<!-- Tu budú vaše verejné repozitáre -->
-
-## 🌟 Klúčové oblasti vývoja
-
-- 🔄 **Data Pipeline Engineering** - automatizované spracovanie províziových dát
-- 💾 **Database Infrastructure** - HA PostgreSQL clustre s replikáciou
-- 📈 **Monitoring & Observability** - centralizovaný logging a metriky
-- 🔐 **Security & Authentication** - integrácia s Microsoft Entra ID
-- ☁️ **Cloud Infrastructure** - škálovateľná infraštruktúra
 
 ## 📫 Kontakt
 

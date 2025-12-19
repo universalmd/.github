@@ -20,7 +20,6 @@ UNIVERSAL maklérsky dom a.s. je popredný finančný sprostredkovateľ poskytuj
 ![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-017081?style=for-the-badge&logo=apache&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Rundeck](https://img.shields.io/badge/Rundeck-F73C3C?style=for-the-badge&logo=rundeck&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)

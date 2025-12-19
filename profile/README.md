@@ -12,7 +12,7 @@ UNIVERSAL maklérsky dom a.s. je popredný finančný sprostredkovateľ poskytuj
 - **Databases**: PostgreSQL s vysokou dostupnosťou (Patroni, etcd)
 - **Orchestration**: Rundeck - centralizovaná automatizácia úloh
 - **Monitoring**: Graylog, Prometheus, Grafana, Zabbix
-- **DevOps**: GitLab CI/CD, Docker, Kubernetes
+- **DevOps**: GitHub CI/CD, Docker, Kubernetes
 
 ### 🛠️ Tech Stack
 

@@ -1,8 +1,6 @@
 # UNIVERSAL maklérsky dom a.s.
 
-## 🏢 O nás
-
-UNIVERSAL maklérsky dom a.s. je popredný finančný sprostredkovateľ poskytujúci komplexné služby v oblasti poisťovníctva a finančných produktov.
+je popredný finančný sprostredkovateľ poskytujúci komplexné služby v oblasti poisťovníctva a finančných produktov.
 
 ### Core Technologies
 

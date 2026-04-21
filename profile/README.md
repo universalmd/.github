@@ -16,4 +16,4 @@ UNIVERSAL maklérsky dom a.s. je popredný finančný sprostredkovateľ poskytuj
 
 ---
 
-© 2025 UNIVERSAL maklérsky dom a.s. | Všetky práva vyhradené
+© 2026 UNIVERSAL maklérsky dom a.s. | Všetky práva vyhradené
